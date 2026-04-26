@@ -58,18 +58,4 @@
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
 
----
 
-## Currently
-
-- 🔨 Building **Unigency AI** — tourism platform for Kyrgyzstan
-- 📚 Deepening skills in Go & FastAPI
-- 🤝 Open for freelance & collaboration
-
----
-
-<div align="center">
-
-*"Ship it, then improve it."*
-
-</div>
